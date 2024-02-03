@@ -37,7 +37,7 @@ const App = () => {
     </BrowserRouter>
     <br></br>
     <hr></hr>
-    <Tformat/>
+    {/* <Tformat/> */}
     </>
 
   

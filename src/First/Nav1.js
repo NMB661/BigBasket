@@ -9,7 +9,7 @@ import './Nav1.css'
 const Nav1 = () => {
   return (
     <>
-    <Navbar expand="lg"  style={{height:90,backgroundColor:'rgb(162, 205, 98)'}}>
+    <Navbar expand="lg"  style={{height:90,backgroundColor:'green'}}>
       <Container fluid >
         <div className='title'>
         <Navbar.Brand href="#"> <span>big</span>basket</Navbar.Brand></div>
