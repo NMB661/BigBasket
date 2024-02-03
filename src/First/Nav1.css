@@ -1,0 +1,22 @@
+#nav{
+    margin: 20px;
+    height: 120px;
+}
+span{
+    color: red;
+    font-size: 40px;
+    font-weight: bold;
+}
+#navbarScroll{
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 50px;
+    padding-right: 100px;
+    justify-content: space-between;
+}
+.title{
+    color: black;
+    font-size: 10px;
+    font-weight: bold;
+    
+}

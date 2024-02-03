@@ -1,0 +1,39 @@
+
+.contact-container {
+padding-top: 110px;
+  }
+  
+  .contact-form {
+    max-width: 400px;
+    margin: auto;
+  }
+  #h{
+    margin-left: 30px;
+  }
+  #b{
+    margin-top: 20px;
+    margin-left: 140px;
+  }
+
+  #footer{
+    margin-top: 100px;
+    
+    background-color:rgb(127, 196, 24);
+    padding-top: 80px;
+    margin-left: 0px;
+ 
+    
+}
+li{
+    font-size: 20px;
+    list-style: none;
+}
+.main{
+  background-image: url('https://t3.ftcdn.net/jpg/00/78/28/24/360_F_78282497_UK7tUPS8HXVMz7VQPK4hRRnYoUXEJ4Ie.jpg');
+  background-size: cover;
+  overflow-x: hidden;
+}
+a{
+  color: black;
+}
+  

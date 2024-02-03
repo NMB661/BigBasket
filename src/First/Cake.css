@@ -1,0 +1,28 @@
+.cake1{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.smart{
+    margin-top: 50px;
+    
+}
+
+#footer{
+    margin-top: 100px;
+
+    background-color:rgb(127, 196, 24);
+    padding-top: 80px;
+    padding-left: 20px;
+    
+}
+li{
+    font-size: 20px;
+    list-style: none;
+}
+a{
+    color: black;
+}
+.smart1{
+    overflow-x: hidden;
+}
